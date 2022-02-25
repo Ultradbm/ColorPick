@@ -1,0 +1,22 @@
+C:\Users\DBM\Documents\Visual Studio 2017\Projects\DesktopApp1 - Copy (2)\DesktopApp1\bin\Debug\DesktopApp1.exe.config
+C:\Users\DBM\Documents\Visual Studio 2017\Projects\DesktopApp1 - Copy (2)\DesktopApp1\bin\Debug\DesktopApp1.exe
+C:\Users\DBM\Documents\Visual Studio 2017\Projects\DesktopApp1 - Copy (2)\DesktopApp1\bin\Debug\DesktopApp1.pdb
+C:\Users\DBM\Documents\Visual Studio 2017\Projects\DesktopApp1 - Copy (2)\DesktopApp1\obj\Debug\PickerForm V2.csprojAssemblyReference.cache
+C:\Users\DBM\Documents\Visual Studio 2017\Projects\DesktopApp1 - Copy (2)\DesktopApp1\obj\Debug\DesktopApp1.Form1.resources
+C:\Users\DBM\Documents\Visual Studio 2017\Projects\DesktopApp1 - Copy (2)\DesktopApp1\obj\Debug\DesktopApp1.PickerForm.resources
+C:\Users\DBM\Documents\Visual Studio 2017\Projects\DesktopApp1 - Copy (2)\DesktopApp1\obj\Debug\DesktopApp1.Properties.Resources.resources
+C:\Users\DBM\Documents\Visual Studio 2017\Projects\DesktopApp1 - Copy (2)\DesktopApp1\obj\Debug\PickerForm V2.csproj.GenerateResource.cache
+C:\Users\DBM\Documents\Visual Studio 2017\Projects\DesktopApp1 - Copy (2)\DesktopApp1\obj\Debug\PickerForm V2.csproj.CoreCompileInputs.cache
+C:\Users\DBM\Documents\Visual Studio 2017\Projects\DesktopApp1 - Copy (2)\DesktopApp1\obj\Debug\DesktopApp1.exe
+C:\Users\DBM\Documents\Visual Studio 2017\Projects\DesktopApp1 - Copy (2)\DesktopApp1\obj\Debug\DesktopApp1.pdb
+C:\Users\DBM\Documents\Visual Studio 2017\Projects\PickerForm V2\DesktopApp1\bin\Debug\DesktopApp1.exe.config
+C:\Users\DBM\Documents\Visual Studio 2017\Projects\PickerForm V2\DesktopApp1\bin\Debug\DesktopApp1.exe
+C:\Users\DBM\Documents\Visual Studio 2017\Projects\PickerForm V2\DesktopApp1\bin\Debug\DesktopApp1.pdb
+C:\Users\DBM\Documents\Visual Studio 2017\Projects\PickerForm V2\DesktopApp1\obj\Debug\PickerForm V2.csprojAssemblyReference.cache
+C:\Users\DBM\Documents\Visual Studio 2017\Projects\PickerForm V2\DesktopApp1\obj\Debug\DesktopApp1.Form1.resources
+C:\Users\DBM\Documents\Visual Studio 2017\Projects\PickerForm V2\DesktopApp1\obj\Debug\DesktopApp1.PickerForm.resources
+C:\Users\DBM\Documents\Visual Studio 2017\Projects\PickerForm V2\DesktopApp1\obj\Debug\DesktopApp1.Properties.Resources.resources
+C:\Users\DBM\Documents\Visual Studio 2017\Projects\PickerForm V2\DesktopApp1\obj\Debug\PickerForm V2.csproj.GenerateResource.cache
+C:\Users\DBM\Documents\Visual Studio 2017\Projects\PickerForm V2\DesktopApp1\obj\Debug\PickerForm V2.csproj.CoreCompileInputs.cache
+C:\Users\DBM\Documents\Visual Studio 2017\Projects\PickerForm V2\DesktopApp1\obj\Debug\DesktopApp1.exe
+C:\Users\DBM\Documents\Visual Studio 2017\Projects\PickerForm V2\DesktopApp1\obj\Debug\DesktopApp1.pdb
